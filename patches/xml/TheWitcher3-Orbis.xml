@@ -22,7 +22,7 @@
               Name="60 FPS Unlock"
               Author="illusion"
               PatchVer="1.0"
-              AppVer="04.00"
+              AppVer="04.06"
               AppElf="eboot.bin">
         <PatchList>
             <Line Type="bytes" Address="0x016b030c" Value="be00000000"/>
